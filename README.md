@@ -7,3 +7,6 @@ Artificial Intelligence &amp; Deep Learning Documentation
 
 ## Tuning Hyperparameter
 1. [Teknik Grid Search](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/63f68c992a683a615b7eb134d93174cb0824e6c7/Teknik_Grid_Search.ipynb)
+
+## Image Recognition
+1. [Klasifikasi Gambar](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/c212ec3d39e008f0bbc560a0ed72f53077885c6f/Klasifikasi_Gambar.ipynb)
