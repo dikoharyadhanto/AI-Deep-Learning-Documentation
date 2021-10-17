@@ -11,6 +11,7 @@ Artificial Intelligence &amp; Deep Learning Documentation
 ## Simple Neuron Network Model
 1. [Model Neuron Network Sederhana](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/de5b7e239332f8e83708f48fb87b8ba64c78cfb7/Model_Neuron_Network_Sederhana.ipynb)
 2. [Model Neuron Network Dua Kelas](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/720f173418eacbf8f9e9253b78eb4ee13bf271dd/Neuron_Network_Dua_Kelas.ipynb)
+3. [Model Neuron Network Banyak Kelas](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/df689ff53dbb113a423b8d90afeb534d78ed8447/Model_Neuron_Network_Banyak_Kelas.ipynb)
 
 ## Image Recognition
 1. [Klasifikasi Gambar](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/c212ec3d39e008f0bbc560a0ed72f53077885c6f/Klasifikasi_Gambar.ipynb)
