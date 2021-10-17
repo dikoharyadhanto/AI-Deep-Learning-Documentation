@@ -16,5 +16,8 @@ Artificial Intelligence &amp; Deep Learning Documentation
 ## Callback
 1. [Penggunaan Callback](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/30f064d726c073b048afd455d8b4096bba043982/Callback.ipynb)
 
+## Batch Loading
+1. [Penggunaan Batch Loading](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/5f29f79924ec7003e08fd553c21490c3fe8b33b8/Batch_Loading.ipynb)
+
 ## Image Recognition
 1. [Klasifikasi Gambar](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/c212ec3d39e008f0bbc560a0ed72f53077885c6f/Klasifikasi_Gambar.ipynb)
