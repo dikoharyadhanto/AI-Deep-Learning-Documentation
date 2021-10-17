@@ -8,5 +8,8 @@ Artificial Intelligence &amp; Deep Learning Documentation
 ## Tuning Hyperparameter
 1. [Teknik Grid Search](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/63f68c992a683a615b7eb134d93174cb0824e6c7/Teknik_Grid_Search.ipynb)
 
+## Simple Neuron Network Model
+1. [Model Neuron Network Sederhana](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/de5b7e239332f8e83708f48fb87b8ba64c78cfb7/Model_Neuron_Network_Sederhana.ipynb)
+
 ## Image Recognition
 1. [Klasifikasi Gambar](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/c212ec3d39e008f0bbc560a0ed72f53077885c6f/Klasifikasi_Gambar.ipynb)
