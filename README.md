@@ -13,5 +13,8 @@ Artificial Intelligence &amp; Deep Learning Documentation
 2. [Model Neuron Network Dua Kelas](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/720f173418eacbf8f9e9253b78eb4ee13bf271dd/Neuron_Network_Dua_Kelas.ipynb)
 3. [Model Neuron Network Banyak Kelas](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/df689ff53dbb113a423b8d90afeb534d78ed8447/Model_Neuron_Network_Banyak_Kelas.ipynb)
 
+## Callback
+1. [Penggunaan Callback](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/30f064d726c073b048afd455d8b4096bba043982/Callback.ipynb)
+
 ## Image Recognition
 1. [Klasifikasi Gambar](https://github.com/dikoharyadhanto/AI-Deep-Learning-Documentation/blob/c212ec3d39e008f0bbc560a0ed72f53077885c6f/Klasifikasi_Gambar.ipynb)
